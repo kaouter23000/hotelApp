@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2258765b-cff5-4be6-be0f-e653fba4a612" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectId" id="1bA7WeIOJ6QbZJCTUqEDUFbhC3C" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo/demo/demo.ipr" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.HotelSB.repositories" />
+      <recent name="com.example.HotelSB.models" />
+      <recent name="com.example.HotelSB.controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pc\Downloads\HotelSB\HotelSB\src\main\java\com\example\HotelSB" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="HotelSbApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.HotelSB.HotelSbApplication" />
+      <module name="HotelSB.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.HotelSB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HotelSbApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2258765b-cff5-4be6-be0f-e653fba4a612" name="Default Changelist" comment="" />
+      <created>1588063078789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588063078789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="759" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1588338822172">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="759" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1588338822172" />
+    <state x="371" y="91" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588064033824">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="91" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588064033824" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1588358964191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588358964191" />
+    <state width="1237" height="125" key="GridCell.Tab.0.bottom" timestamp="1588372260934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588372260934" />
+    <state width="1237" height="125" key="GridCell.Tab.0.center" timestamp="1588372260934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="125" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588372260934" />
+    <state width="1237" height="125" key="GridCell.Tab.0.left" timestamp="1588372260934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="125" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588372260934" />
+    <state width="1237" height="125" key="GridCell.Tab.0.right" timestamp="1588372260934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="125" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588372260934" />
+    <state x="661" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1588360491419">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="661" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588360491419" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1588203607365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1588203607365" />
+  </component>
+</project>
